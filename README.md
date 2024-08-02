@@ -1,6 +1,6 @@
 # chess-backend
 Chess Backend API\
-Django REST framework and JSON Web Token backend for ChessMaster [Github Repositry](https://github.com/Jin2oo2/chessboard)
+Django REST framework with JSON Web Token backend for ChessMaster [Github Repositry](https://github.com/Jin2oo2/chessboard)
 ## Endpoints
 POST `/singup/`\
 Register a user with username and password\
