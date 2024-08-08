@@ -1,18 +1,18 @@
 # chess-backend
-Chess Backend API\
-Django REST framework with JSON Web Token backend for ChessMaster [Github Repositry](https://github.com/Jin2oo2/chessboard)
+[Chess Master](https://github.com/Jin2oo2/chessboard)'s backend Web API (RESTful)\
+This API is developed with Django REST framework and JSON Web Token for authentication scheme
 ## Endpoints
-POST `/singup/`\
+POST `/singup`\
 Register a user with username and password\
 <br>
-POST `/login/`\
+POST `/login`\
 Login a user with username and password\
 <br>
-GET `/logout/`\
+GET `/logout`\
 Logout a user\
 <br>
-POST `/newgame/`\
+POST `/newgame`\
 Create a new game with payload: level, result\
 <br>
-GET `/games/`\
+GET `/games`\
 List all games created
