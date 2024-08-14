@@ -1,4 +1,4 @@
-#!/Users/jintanoda/Desktop/dev/chess-game/backend/venv/bin/python
+#!/Users/jintanoda/Documents/programming/chess-app/chess-backend/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
